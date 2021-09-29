@@ -135,7 +135,7 @@ comments:
     clientSecret: 79d54d75ee5a96f2b2496b99ccda146b963c55fd # GitHub Application Client Secret
     repository  : NUSC.github.io # GitHub repo
     owner       : NUSC # GitHub repo owner
-    proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+    proxy: https://static.appgao.cate.fun/login/oauth/access_token
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - NUSC
 
