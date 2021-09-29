@@ -137,6 +137,7 @@ comments:
     owner       : NUSC # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - NUSC
+    id: sourcemod
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
