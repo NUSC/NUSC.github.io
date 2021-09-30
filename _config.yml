@@ -145,7 +145,7 @@ comments:
     app_key     : qAlyKkcLDEm44Kwy1NdSyDOz # LeanCloud App key
     placeholder : # Prompt information
     visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+    meta        : 昵称,邮件,网址 # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 
 ## => Pageview
