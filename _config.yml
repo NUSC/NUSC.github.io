@@ -141,10 +141,10 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    el          : vcomment
-    app_id      : 8GP2HS8dCgEEdRaxUzYlXE2A-MdYXbMMI # LeanCloud App id
-    app_key     : qAlyKkcLDEm44Kwy1NdSyDOz # LeanCloud App key
-    lang        : zh-CN
+    el          : "#vcomment"
+    app_id      : "8GP2HS8dCgEEdRaxUzYlXE2A-MdYXbMMI" # LeanCloud App id
+    app_key     : "qAlyKkcLDEm44Kwy1NdSyDOz" # LeanCloud App key
+    lang        : "zh-CN"
 
 
 ## => Pageview
@@ -154,8 +154,8 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : 8GP2HS8dCgEEdRaxUzYlXE2A # LeanCloud App id
-    app_key   : qAlyKkcLDEm44Kwy1NdSyDOz # LeanCloud App key
+    app_id    : "8GP2HS8dCgEEdRaxUzYlXE2A" # LeanCloud App id
+    app_key   : "qAlyKkcLDEm44Kwy1NdSyDOz" # LeanCloud App key
     app_class : Reading # LeanCloud App class
 
 
