@@ -143,6 +143,7 @@ comments:
   valine:
     app_id      : 8GP2HS8dCgEEdRaxUzYlXE2A-MdYXbMMI # LeanCloud App id
     app_key     : qAlyKkcLDEm44Kwy1NdSyDOz # LeanCloud App key
+    lang:'zh-CN'
 
 
 ## => Pageview
