@@ -143,12 +143,6 @@ comments:
   valine:
     app_id      : 8GP2HS8dCgEEdRaxUzYlXE2A-MdYXbMMI # LeanCloud App id
     app_key     : qAlyKkcLDEm44Kwy1NdSyDOz # LeanCloud App key
-    language    : zh-cn # Language, available values: en, zh-cn
-    placeholder : # 留言 # Prompt information
-    lang        : zh-cn
-    comment_count: true # If false, comment count will only be displayed in post page, not in home page
-    visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 
 ## => Pageview
