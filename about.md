@@ -28,4 +28,4 @@ key: page-about
 
 联系方式：
 * 邮箱: yangwenchao94@gmail.com
-* Github: [ixuner](https://github.com/NUSC)
+* Github: [ixuner](https://github.com/ixuner)
